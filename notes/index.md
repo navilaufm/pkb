@@ -4,9 +4,9 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
+- [Python Foundation for Spatial Analysis](https://courses.spatialthoughts.com/python-foundation.html): Free full course teaching Python from the basics through pandas, geopandas, and rioxarray for spatial analysis. See [[Python]].
+- [Meteo.Tech: Agentic Weather Intelligence](https://meteo.tech/): Weather-risk platform combining proprietary WRF models with proactive AI agents for real-time operational alerts across Latin America. See [[Climate_Change]].
 - [Dactyl](https://dactyl.dev/): AI agent that builds real native iPhone, iPad, and Android apps live in your browser from a plain-language description. See [[Agentic_Coding]].
-- [meteo.tech](https://meteo.tech): AI-powered weather intelligence platform delivering real-time meteorological monitoring and risk alerts for high-stakes operations across Latin America. See [[Climate_Change]].
-- [agribound](https://github.com/montimaj/agribound): Python package for delineating field boundaries from satellite imagery using object detection, segmentation, and foundation models. See [[Agriculture]].
 
 ## Topics
 
