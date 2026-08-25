@@ -57,6 +57,7 @@ plugins:
 nav:
   - Home:
     - index.md
+    - Agentic Coding: Agentic_Coding.md
     - Embeddings: Embeddings.md
     - Data: Data.md
     - Python: Python.md
