@@ -1,0 +1,67 @@
+site_name: Notes
+site_url: https://navilaufm.github.io/pkb/
+repo_url: https://github.com/navilaufm/pkb
+repo_name: navilaufm/pkb
+edit_uri: edit/main/notes/
+
+docs_dir: notes
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: teal
+      accent: cyan
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: teal
+      accent: cyan
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.expand
+    - navigation.indexes
+    - navigation.top
+    - navigation.instant
+    - navigation.tracking
+    - search.suggest
+    - search.highlight
+    - search.share
+    - content.code.copy
+    - content.action.edit
+    - toc.follow
+
+hooks:
+  - hooks.py
+
+markdown_extensions:
+  - tables
+  - attr_list
+  - md_in_html
+  - admonition
+  - toc:
+      permalink: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.superfences
+
+plugins:
+  - search
+  - roamlinks
+
+nav:
+  - Home:
+    - index.md
+    - Embeddings: Embeddings.md
+    - Data: Data.md
+    - Python: Python.md
+    - Deep Learning: Deep_Learning.md
+    - Remote Sensing: Remote_Sensing.md
+    - Agriculture: Agriculture.md
+    - Climate Change: Climate_Change.md
+    - Changelog: log.md
