@@ -4,9 +4,9 @@ Table of contents of all notes pages.
 
 ## Latest Finds
 
+- [Central America CMORPH SPI 3-Month Average](https://ftp.cpc.ncep.noaa.gov/International/dm/Central_America_CMORPH_SPI_3_mo_avg.png): NOAA drought-monitoring map of the Standardized Precipitation Index for Central America. See [[Climate_Change]].
+- [GeoLibre Model Builder and AI Assistant](https://www.linkedin.com/posts/giswqs_gis-geospatial-opensource-share-7498007103715074049-CAet/): Browser-based GIS tool whose AI Assistant builds geoprocessing workflows from a natural-language prompt. See [[Agentic_Coding]].
 - [Python Foundation for Spatial Analysis](https://courses.spatialthoughts.com/python-foundation.html): Free full course teaching Python from the basics through pandas, geopandas, and rioxarray for spatial analysis. See [[Python]].
-- [Meteo.Tech: Agentic Weather Intelligence](https://meteo.tech/): Weather-risk platform combining proprietary WRF models with proactive AI agents for real-time operational alerts across Latin America. See [[Climate_Change]].
-- [Dactyl](https://dactyl.dev/): AI agent that builds real native iPhone, iPad, and Android apps live in your browser from a plain-language description. See [[Agentic_Coding]].
 
 ## Topics
 
